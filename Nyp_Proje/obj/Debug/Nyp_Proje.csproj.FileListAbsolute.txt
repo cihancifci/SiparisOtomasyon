@@ -1,0 +1,157 @@
+C:\Users\Eyyüp SERT\source\repos\Nyp_Proje\Nyp_Proje\bin\Debug\Nyp_Proje.exe.config
+C:\Users\Eyyüp SERT\source\repos\Nyp_Proje\Nyp_Proje\bin\Debug\Nyp_Proje.exe
+C:\Users\Eyyüp SERT\source\repos\Nyp_Proje\Nyp_Proje\bin\Debug\Nyp_Proje.pdb
+C:\Users\Eyyüp SERT\source\repos\Nyp_Proje\Nyp_Proje\obj\Debug\Nyp_Proje.csprojAssemblyReference.cache
+C:\Users\Eyyüp SERT\source\repos\Nyp_Proje\Nyp_Proje\obj\Debug\Nyp_Proje.Form1.resources
+C:\Users\Eyyüp SERT\source\repos\Nyp_Proje\Nyp_Proje\obj\Debug\Nyp_Proje.Properties.Resources.resources
+C:\Users\Eyyüp SERT\source\repos\Nyp_Proje\Nyp_Proje\obj\Debug\Nyp_Proje.csproj.GenerateResource.cache
+C:\Users\Eyyüp SERT\source\repos\Nyp_Proje\Nyp_Proje\obj\Debug\Nyp_Proje.csproj.CoreCompileInputs.cache
+C:\Users\Eyyüp SERT\source\repos\Nyp_Proje\Nyp_Proje\obj\Debug\Nyp_Proje.exe
+C:\Users\Eyyüp SERT\source\repos\Nyp_Proje\Nyp_Proje\obj\Debug\Nyp_Proje.pdb
+C:\Users\ASUS\Desktop\DERSLER\C# ÇALIŞMALAR\Nyp_Proje\Nyp_Proje\obj\Debug\Nyp_Proje.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\DERSLER\C# ÇALIŞMALAR\Nyp_Proje\Nyp_Proje\obj\Debug\Nyp_Proje.AnaSayfaForm.resources
+C:\Users\ASUS\Desktop\DERSLER\C# ÇALIŞMALAR\Nyp_Proje\Nyp_Proje\obj\Debug\Nyp_Proje.Properties.Resources.resources
+C:\Users\ASUS\Desktop\DERSLER\C# ÇALIŞMALAR\Nyp_Proje\Nyp_Proje\obj\Debug\Nyp_Proje.SiparisForm.resources
+C:\Users\ASUS\Desktop\DERSLER\C# ÇALIŞMALAR\Nyp_Proje\Nyp_Proje\obj\Debug\Nyp_Proje.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\DERSLER\C# ÇALIŞMALAR\Nyp_Proje\Nyp_Proje\obj\Debug\Nyp_Proje.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\DERSLER\C# ÇALIŞMALAR\Nyp_Proje\Nyp_Proje\obj\Debug\Nyp_Proje.exe
+C:\Users\ASUS\Desktop\DERSLER\C# ÇALIŞMALAR\Nyp_Proje\Nyp_Proje\obj\Debug\Nyp_Proje.pdb
+C:\Users\ASUS\Desktop\DERSLER\C# ÇALIŞMALAR\Nyp_Proje\Nyp_Proje\bin\Debug\Nyp_Proje.exe.config
+C:\Users\ASUS\Desktop\DERSLER\C# ÇALIŞMALAR\Nyp_Proje\Nyp_Proje\bin\Debug\Nyp_Proje.exe
+C:\Users\ASUS\Desktop\DERSLER\C# ÇALIŞMALAR\Nyp_Proje\Nyp_Proje\bin\Debug\Nyp_Proje.pdb
+C:\Users\ASUS\Desktop\DERSLER\C# ÇALIŞMALAR\Nyp_Proje\Nyp_Proje\obj\Debug\Nyp_Proje.KullanıcıForm.resources
+C:\Users\ASUS\Desktop\DERSLER\C# ÇALIŞMALAR\Nyp_Proje\Nyp_Proje\obj\Debug\Nyp_Proje.UrunEkleme.resources
+C:\Users\ASUS\Desktop\DERSLER\C# ÇALIŞMALAR\Nyp_Proje\Nyp_Proje\obj\Debug\Nyp_Proje.stokdusurme.resources
+C:\Users\ASUS\Desktop\DERSLER\C# ÇALIŞMALAR\Nyp_Proje\Nyp_Proje\obj\Debug\Nyp_Proje.GuncellemeForm.resources
+C:\Users\ASUS\Desktop\DERSLER\C# ÇALIŞMALAR\Nyp_Proje\Nyp_Proje\obj\Debug\Nyp_Proje.Sepet.resources
+C:\Users\ASUS\Desktop\DERSLER\C# ÇALIŞMALAR\Nyp_Proje\Nyp_Proje\obj\Debug\Nyp_Proje.CekİleAl.resources
+G:\Nyp_Proje3\Nyp_Proje\bin\Debug\Nyp_Proje.exe.config
+G:\Nyp_Proje3\Nyp_Proje\bin\Debug\Nyp_Proje.exe
+G:\Nyp_Proje3\Nyp_Proje\bin\Debug\Nyp_Proje.pdb
+G:\Nyp_Proje3\Nyp_Proje\obj\Debug\Nyp_Proje.csprojAssemblyReference.cache
+G:\Nyp_Proje3\Nyp_Proje\obj\Debug\Nyp_Proje.AnaSayfaForm.resources
+G:\Nyp_Proje3\Nyp_Proje\obj\Debug\Nyp_Proje.CekİleAl.resources
+G:\Nyp_Proje3\Nyp_Proje\obj\Debug\Nyp_Proje.GuncellemeForm.resources
+G:\Nyp_Proje3\Nyp_Proje\obj\Debug\Nyp_Proje.KullanıcıForm.resources
+G:\Nyp_Proje3\Nyp_Proje\obj\Debug\Nyp_Proje.Properties.Resources.resources
+G:\Nyp_Proje3\Nyp_Proje\obj\Debug\Nyp_Proje.Sepet.resources
+G:\Nyp_Proje3\Nyp_Proje\obj\Debug\Nyp_Proje.SiparisForm.resources
+G:\Nyp_Proje3\Nyp_Proje\obj\Debug\Nyp_Proje.stokdusurme.resources
+G:\Nyp_Proje3\Nyp_Proje\obj\Debug\Nyp_Proje.UrunEkleme.resources
+G:\Nyp_Proje3\Nyp_Proje\obj\Debug\Nyp_Proje.csproj.GenerateResource.cache
+G:\Nyp_Proje3\Nyp_Proje\obj\Debug\Nyp_Proje.csproj.CoreCompileInputs.cache
+G:\Nyp_Proje3\Nyp_Proje\obj\Debug\Nyp_Proje.exe
+G:\Nyp_Proje3\Nyp_Proje\obj\Debug\Nyp_Proje.pdb
+C:\Users\ASUS\Desktop\Nyp_Proje_\Nyp_Proje\obj\Debug\Nyp_Proje.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\Nyp_Proje_\Nyp_Proje\obj\Debug\Nyp_Proje.AnaSayfaForm.resources
+C:\Users\ASUS\Desktop\Nyp_Proje_\Nyp_Proje\obj\Debug\Nyp_Proje.CekİleAl.resources
+C:\Users\ASUS\Desktop\Nyp_Proje_\Nyp_Proje\obj\Debug\Nyp_Proje.GuncellemeForm.resources
+C:\Users\ASUS\Desktop\Nyp_Proje_\Nyp_Proje\obj\Debug\Nyp_Proje.KullanıcıForm.resources
+C:\Users\ASUS\Desktop\Nyp_Proje_\Nyp_Proje\obj\Debug\Nyp_Proje.Properties.Resources.resources
+C:\Users\ASUS\Desktop\Nyp_Proje_\Nyp_Proje\obj\Debug\Nyp_Proje.Sepet.resources
+C:\Users\ASUS\Desktop\Nyp_Proje_\Nyp_Proje\obj\Debug\Nyp_Proje.SiparisForm.resources
+C:\Users\ASUS\Desktop\Nyp_Proje_\Nyp_Proje\obj\Debug\Nyp_Proje.stokdusurme.resources
+C:\Users\ASUS\Desktop\Nyp_Proje_\Nyp_Proje\obj\Debug\Nyp_Proje.UrunEkleme.resources
+C:\Users\ASUS\Desktop\Nyp_Proje_\Nyp_Proje\obj\Debug\Nyp_Proje.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\Nyp_Proje_\Nyp_Proje\obj\Debug\Nyp_Proje.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Nyp_Proje_\Nyp_Proje\obj\Debug\Nyp_Proje.exe
+C:\Users\ASUS\Desktop\Nyp_Proje_\Nyp_Proje\obj\Debug\Nyp_Proje.pdb
+C:\Users\ASUS\Desktop\Nyp_Proje_\Nyp_Proje\bin\Debug\Nyp_Proje.exe.config
+C:\Users\ASUS\Desktop\Nyp_Proje_\Nyp_Proje\bin\Debug\Nyp_Proje.exe
+C:\Users\ASUS\Desktop\Nyp_Proje_\Nyp_Proje\bin\Debug\Nyp_Proje.pdb
+C:\Users\ASUS\Desktop\Nyp_Proje\Nyp_Proje\bin\Debug\Nyp_Proje.exe.config
+C:\Users\ASUS\Desktop\Nyp_Proje\Nyp_Proje\bin\Debug\Nyp_Proje.exe
+C:\Users\ASUS\Desktop\Nyp_Proje\Nyp_Proje\bin\Debug\Nyp_Proje.pdb
+C:\Users\ASUS\Desktop\Nyp_Proje\Nyp_Proje\obj\Debug\Nyp_Proje.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\Nyp_Proje\Nyp_Proje\obj\Debug\Nyp_Proje.AnaSayfaForm.resources
+C:\Users\ASUS\Desktop\Nyp_Proje\Nyp_Proje\obj\Debug\Nyp_Proje.GuncellemeForm.resources
+C:\Users\ASUS\Desktop\Nyp_Proje\Nyp_Proje\obj\Debug\Nyp_Proje.KullanıcıForm.resources
+C:\Users\ASUS\Desktop\Nyp_Proje\Nyp_Proje\obj\Debug\Nyp_Proje.Properties.Resources.resources
+C:\Users\ASUS\Desktop\Nyp_Proje\Nyp_Proje\obj\Debug\Nyp_Proje.Sepet.resources
+C:\Users\ASUS\Desktop\Nyp_Proje\Nyp_Proje\obj\Debug\Nyp_Proje.SiparisForm.resources
+C:\Users\ASUS\Desktop\Nyp_Proje\Nyp_Proje\obj\Debug\Nyp_Proje.stokdusurme.resources
+C:\Users\ASUS\Desktop\Nyp_Proje\Nyp_Proje\obj\Debug\Nyp_Proje.UrunEkleme.resources
+C:\Users\ASUS\Desktop\Nyp_Proje\Nyp_Proje\obj\Debug\Nyp_Proje.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\Nyp_Proje\Nyp_Proje\obj\Debug\Nyp_Proje.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Nyp_Proje\Nyp_Proje\obj\Debug\Nyp_Proje.exe
+C:\Users\ASUS\Desktop\Nyp_Proje\Nyp_Proje\obj\Debug\Nyp_Proje.pdb
+C:\Users\ASUS\Desktop\Nyp_Proje\Nyp_Proje\obj\Debug\Nyp_Proje.OdemeEkrani.resources
+C:\Users\ASUS\Desktop\Nyp_Proje\Nyp_Proje\obj\Debug\Nyp_Proje.SonSiparislerForm.resources
+C:\Users\ASUS\Desktop\DERSLER\Projeler\2. Sınıf 1. Dönem NYP\Nyp_Proje\bin\Debug\Nyp_Proje.exe.config
+C:\Users\ASUS\Desktop\DERSLER\Projeler\2. Sınıf 1. Dönem NYP\Nyp_Proje\bin\Debug\Nyp_Proje.exe
+C:\Users\ASUS\Desktop\DERSLER\Projeler\2. Sınıf 1. Dönem NYP\Nyp_Proje\bin\Debug\Nyp_Proje.pdb
+C:\Users\ASUS\Desktop\DERSLER\Projeler\2. Sınıf 1. Dönem NYP\Nyp_Proje\obj\Debug\Nyp_Proje.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\DERSLER\Projeler\2. Sınıf 1. Dönem NYP\Nyp_Proje\obj\Debug\Nyp_Proje.AnaSayfaForm.resources
+C:\Users\ASUS\Desktop\DERSLER\Projeler\2. Sınıf 1. Dönem NYP\Nyp_Proje\obj\Debug\Nyp_Proje.GuncellemeForm.resources
+C:\Users\ASUS\Desktop\DERSLER\Projeler\2. Sınıf 1. Dönem NYP\Nyp_Proje\obj\Debug\Nyp_Proje.KullanıcıForm.resources
+C:\Users\ASUS\Desktop\DERSLER\Projeler\2. Sınıf 1. Dönem NYP\Nyp_Proje\obj\Debug\Nyp_Proje.OdemeEkrani.resources
+C:\Users\ASUS\Desktop\DERSLER\Projeler\2. Sınıf 1. Dönem NYP\Nyp_Proje\obj\Debug\Nyp_Proje.Properties.Resources.resources
+C:\Users\ASUS\Desktop\DERSLER\Projeler\2. Sınıf 1. Dönem NYP\Nyp_Proje\obj\Debug\Nyp_Proje.Sepet.resources
+C:\Users\ASUS\Desktop\DERSLER\Projeler\2. Sınıf 1. Dönem NYP\Nyp_Proje\obj\Debug\Nyp_Proje.SiparisForm.resources
+C:\Users\ASUS\Desktop\DERSLER\Projeler\2. Sınıf 1. Dönem NYP\Nyp_Proje\obj\Debug\Nyp_Proje.SonSiparislerForm.resources
+C:\Users\ASUS\Desktop\DERSLER\Projeler\2. Sınıf 1. Dönem NYP\Nyp_Proje\obj\Debug\Nyp_Proje.stokdusurme.resources
+C:\Users\ASUS\Desktop\DERSLER\Projeler\2. Sınıf 1. Dönem NYP\Nyp_Proje\obj\Debug\Nyp_Proje.UrunEkleme.resources
+C:\Users\ASUS\Desktop\DERSLER\Projeler\2. Sınıf 1. Dönem NYP\Nyp_Proje\obj\Debug\Nyp_Proje.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\DERSLER\Projeler\2. Sınıf 1. Dönem NYP\Nyp_Proje\obj\Debug\Nyp_Proje.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\DERSLER\Projeler\2. Sınıf 1. Dönem NYP\Nyp_Proje\obj\Debug\Nyp_Proje.exe
+C:\Users\ASUS\Desktop\DERSLER\Projeler\2. Sınıf 1. Dönem NYP\Nyp_Proje\obj\Debug\Nyp_Proje.pdb
+C:\Users\ASUS\Desktop\yedek\2. Sınıf 1. Dönem NYP\Nyp_Proje\bin\Debug\Nyp_Proje.exe.config
+C:\Users\ASUS\Desktop\yedek\2. Sınıf 1. Dönem NYP\Nyp_Proje\bin\Debug\Nyp_Proje.exe
+C:\Users\ASUS\Desktop\yedek\2. Sınıf 1. Dönem NYP\Nyp_Proje\bin\Debug\Nyp_Proje.pdb
+C:\Users\ASUS\Desktop\yedek\2. Sınıf 1. Dönem NYP\Nyp_Proje\obj\Debug\Nyp_Proje.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\yedek\2. Sınıf 1. Dönem NYP\Nyp_Proje\obj\Debug\Nyp_Proje.AnaSayfaForm.resources
+C:\Users\ASUS\Desktop\yedek\2. Sınıf 1. Dönem NYP\Nyp_Proje\obj\Debug\Nyp_Proje.GuncellemeForm.resources
+C:\Users\ASUS\Desktop\yedek\2. Sınıf 1. Dönem NYP\Nyp_Proje\obj\Debug\Nyp_Proje.KullanıcıForm.resources
+C:\Users\ASUS\Desktop\yedek\2. Sınıf 1. Dönem NYP\Nyp_Proje\obj\Debug\Nyp_Proje.OdemeEkrani.resources
+C:\Users\ASUS\Desktop\yedek\2. Sınıf 1. Dönem NYP\Nyp_Proje\obj\Debug\Nyp_Proje.Properties.Resources.resources
+C:\Users\ASUS\Desktop\yedek\2. Sınıf 1. Dönem NYP\Nyp_Proje\obj\Debug\Nyp_Proje.Sepet.resources
+C:\Users\ASUS\Desktop\yedek\2. Sınıf 1. Dönem NYP\Nyp_Proje\obj\Debug\Nyp_Proje.SiparisForm.resources
+C:\Users\ASUS\Desktop\yedek\2. Sınıf 1. Dönem NYP\Nyp_Proje\obj\Debug\Nyp_Proje.SonSiparislerForm.resources
+C:\Users\ASUS\Desktop\yedek\2. Sınıf 1. Dönem NYP\Nyp_Proje\obj\Debug\Nyp_Proje.stokdusurme.resources
+C:\Users\ASUS\Desktop\yedek\2. Sınıf 1. Dönem NYP\Nyp_Proje\obj\Debug\Nyp_Proje.UrunEkle.resources
+C:\Users\ASUS\Desktop\yedek\2. Sınıf 1. Dönem NYP\Nyp_Proje\obj\Debug\Nyp_Proje.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\yedek\2. Sınıf 1. Dönem NYP\Nyp_Proje\obj\Debug\Nyp_Proje.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\yedek\2. Sınıf 1. Dönem NYP\Nyp_Proje\obj\Debug\Nyp_Proje.exe
+C:\Users\ASUS\Desktop\yedek\2. Sınıf 1. Dönem NYP\Nyp_Proje\obj\Debug\Nyp_Proje.pdb
+C:\Users\ASUS\Desktop\yedek\2. Sınıf 1. Dönem NYP\Nyp_Proje\obj\Debug\Nyp_Proje.frm_UrunSilme.resources
+C:\Users\ASUS\Desktop\yedek\2. Sınıf 1. Dönem NYP\Nyp_Proje\obj\Debug\Nyp_Proje.StokEkle.resources
+C:\Users\ASUS\Desktop\yedek\SiparisOtomasyon\Nyp_Proje\obj\Debug\Nyp_Proje.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\yedek\SiparisOtomasyon\Nyp_Proje\obj\Debug\Nyp_Proje.AnaSayfaForm.resources
+C:\Users\ASUS\Desktop\yedek\SiparisOtomasyon\Nyp_Proje\obj\Debug\Nyp_Proje.frm_UrunSilme.resources
+C:\Users\ASUS\Desktop\yedek\SiparisOtomasyon\Nyp_Proje\obj\Debug\Nyp_Proje.GuncellemeForm.resources
+C:\Users\ASUS\Desktop\yedek\SiparisOtomasyon\Nyp_Proje\obj\Debug\Nyp_Proje.KullanıcıForm.resources
+C:\Users\ASUS\Desktop\yedek\SiparisOtomasyon\Nyp_Proje\obj\Debug\Nyp_Proje.OdemeEkrani.resources
+C:\Users\ASUS\Desktop\yedek\SiparisOtomasyon\Nyp_Proje\obj\Debug\Nyp_Proje.Properties.Resources.resources
+C:\Users\ASUS\Desktop\yedek\SiparisOtomasyon\Nyp_Proje\obj\Debug\Nyp_Proje.Sepet.resources
+C:\Users\ASUS\Desktop\yedek\SiparisOtomasyon\Nyp_Proje\obj\Debug\Nyp_Proje.SiparisForm.resources
+C:\Users\ASUS\Desktop\yedek\SiparisOtomasyon\Nyp_Proje\obj\Debug\Nyp_Proje.SonSiparislerForm.resources
+C:\Users\ASUS\Desktop\yedek\SiparisOtomasyon\Nyp_Proje\obj\Debug\Nyp_Proje.stokdusurme.resources
+C:\Users\ASUS\Desktop\yedek\SiparisOtomasyon\Nyp_Proje\obj\Debug\Nyp_Proje.UrunEkle.resources
+C:\Users\ASUS\Desktop\yedek\SiparisOtomasyon\Nyp_Proje\obj\Debug\Nyp_Proje.StokEkle.resources
+C:\Users\ASUS\Desktop\yedek\SiparisOtomasyon\Nyp_Proje\obj\Debug\Nyp_Proje.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\yedek\SiparisOtomasyon\Nyp_Proje\obj\Debug\Nyp_Proje.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\yedek\SiparisOtomasyon\Nyp_Proje\obj\Debug\Nyp_Proje.exe
+C:\Users\ASUS\Desktop\yedek\SiparisOtomasyon\Nyp_Proje\obj\Debug\Nyp_Proje.pdb
+C:\Users\ASUS\Desktop\yedek\SiparisOtomasyon\Nyp_Proje\bin\Debug\Nyp_Proje.exe.config
+C:\Users\ASUS\Desktop\yedek\SiparisOtomasyon\Nyp_Proje\bin\Debug\Nyp_Proje.exe
+C:\Users\ASUS\Desktop\yedek\SiparisOtomasyon\Nyp_Proje\bin\Debug\Nyp_Proje.pdb
+C:\Users\ASUS\Desktop\yedek\Sipariş Otomasyon\SiparisOtomasyon\Nyp_Proje\bin\Debug\Nyp_Proje.exe.config
+C:\Users\ASUS\Desktop\yedek\Sipariş Otomasyon\SiparisOtomasyon\Nyp_Proje\bin\Debug\Nyp_Proje.exe
+C:\Users\ASUS\Desktop\yedek\Sipariş Otomasyon\SiparisOtomasyon\Nyp_Proje\bin\Debug\Nyp_Proje.pdb
+C:\Users\ASUS\Desktop\yedek\Sipariş Otomasyon\SiparisOtomasyon\Nyp_Proje\obj\Debug\Nyp_Proje.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\yedek\Sipariş Otomasyon\SiparisOtomasyon\Nyp_Proje\obj\Debug\Nyp_Proje.AnaSayfaForm.resources
+C:\Users\ASUS\Desktop\yedek\Sipariş Otomasyon\SiparisOtomasyon\Nyp_Proje\obj\Debug\Nyp_Proje.frm_UrunSilme.resources
+C:\Users\ASUS\Desktop\yedek\Sipariş Otomasyon\SiparisOtomasyon\Nyp_Proje\obj\Debug\Nyp_Proje.GuncellemeForm.resources
+C:\Users\ASUS\Desktop\yedek\Sipariş Otomasyon\SiparisOtomasyon\Nyp_Proje\obj\Debug\Nyp_Proje.KullanıcıForm.resources
+C:\Users\ASUS\Desktop\yedek\Sipariş Otomasyon\SiparisOtomasyon\Nyp_Proje\obj\Debug\Nyp_Proje.OdemeEkrani.resources
+C:\Users\ASUS\Desktop\yedek\Sipariş Otomasyon\SiparisOtomasyon\Nyp_Proje\obj\Debug\Nyp_Proje.Properties.Resources.resources
+C:\Users\ASUS\Desktop\yedek\Sipariş Otomasyon\SiparisOtomasyon\Nyp_Proje\obj\Debug\Nyp_Proje.Sepet.resources
+C:\Users\ASUS\Desktop\yedek\Sipariş Otomasyon\SiparisOtomasyon\Nyp_Proje\obj\Debug\Nyp_Proje.SiparisForm.resources
+C:\Users\ASUS\Desktop\yedek\Sipariş Otomasyon\SiparisOtomasyon\Nyp_Proje\obj\Debug\Nyp_Proje.SonSiparislerForm.resources
+C:\Users\ASUS\Desktop\yedek\Sipariş Otomasyon\SiparisOtomasyon\Nyp_Proje\obj\Debug\Nyp_Proje.stokdusurme.resources
+C:\Users\ASUS\Desktop\yedek\Sipariş Otomasyon\SiparisOtomasyon\Nyp_Proje\obj\Debug\Nyp_Proje.UrunEkle.resources
+C:\Users\ASUS\Desktop\yedek\Sipariş Otomasyon\SiparisOtomasyon\Nyp_Proje\obj\Debug\Nyp_Proje.StokEkle.resources
+C:\Users\ASUS\Desktop\yedek\Sipariş Otomasyon\SiparisOtomasyon\Nyp_Proje\obj\Debug\Nyp_Proje.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\yedek\Sipariş Otomasyon\SiparisOtomasyon\Nyp_Proje\obj\Debug\Nyp_Proje.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\yedek\Sipariş Otomasyon\SiparisOtomasyon\Nyp_Proje\obj\Debug\Nyp_Proje.exe
+C:\Users\ASUS\Desktop\yedek\Sipariş Otomasyon\SiparisOtomasyon\Nyp_Proje\obj\Debug\Nyp_Proje.pdb
